@@ -50,191 +50,6 @@
       "ext": "./lib/荐片.js"
     },
     {
-      "key": "csp_WoGG",
-      "name": "🦊玩偶┃DM",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "易搜",
-      "name": "🦊易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "playerType": 2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "盘搜",
-      "name": "🦊盘搜 | 搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "playerType": 2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "UP云搜",
-      "name": "🦊Up云搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "playerType": 2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "七夜",
-      "name": "🦊七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "playerType": 2,
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🦊盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "csp_GitCafe2",
-      "name": "🦊纸条 | 搜索",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀盘搜 | 搜索(Hk)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "📀易搜 | 搜索(Hk)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_DOVX搜索",
-      "name": "📀Dovx|搜索(Hk)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/DOVX搜索.json",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_看美剧",
-      "name": "📀美剧 | 阿里(Hk)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "oval",
-        "ratio": 0.75
-      },
-      "ext": "./lib/看美剧.json",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHikerAL_橘子盘搜",
-      "name": "📀橘子 | 盘搜(Hk)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/橘子盘搜.json",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "push_agent",
-      "name": "📀推送(海阔)",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
-      "jar": "./lib/Hk.jar"
-    },
-    {
-      "key": "应用商店",
-      "name": "🏫应用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json",
-      "jar": "./lib/应用市场.jar"
-    },
-    {
-      "key": "FirstAid",
-      "name": "🚑急救教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "csp_bendi",
-      "name": "📂本地视频 ",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "type_flag": 1,
-      "jar": "./lib/xzy1029.jar"
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "💾Alist",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "./lib/Alist1.json"
-    },
-    {
       "key": "直播转点播2",
       "name": "🎦直播库(分源)",
       "type": 3,
@@ -1548,6 +1363,191 @@
       "filterable": 0,
       "ext": "./lib/huigutongying.json",
       "jar": "./lib/xzy1029.jar"
+    },
+        {
+      "key": "csp_WoGG",
+      "name": "🦊玩偶┃DM",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "易搜",
+      "name": "🦊易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "playerType": 2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "盘搜",
+      "name": "🦊盘搜 | 搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "playerType": 2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "UP云搜",
+      "name": "🦊Up云搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "playerType": 2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "七夜",
+      "name": "🦊七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🦊盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "csp_GitCafe2",
+      "name": "🦊纸条 | 搜索",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀盘搜 | 搜索(Hk)",
+      "type": 3,
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "📀易搜 | 搜索(Hk)",
+      "type": 3,
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "csp_XYQHiker_DOVX搜索",
+      "name": "📀Dovx|搜索(Hk)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/DOVX搜索.json",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "csp_XYQHiker_看美剧",
+      "name": "📀美剧 | 阿里(Hk)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "oval",
+        "ratio": 0.75
+      },
+      "ext": "./lib/看美剧.json",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "csp_XYQHikerAL_橘子盘搜",
+      "name": "📀橘子 | 盘搜(Hk)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/橘子盘搜.json",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "push_agent",
+      "name": "📀推送(海阔)",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
+      "jar": "./lib/Hk.jar"
+    },
+    {
+      "key": "应用商店",
+      "name": "🏫应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://codeberg.org/wuyou/TVBox/raw/branch/main/yy/yysc.json",
+      "jar": "./lib/应用市场.jar"
+    },
+    {
+      "key": "FirstAid",
+      "name": "🚑急救教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "csp_bendi",
+      "name": "📂本地视频 ",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "type_flag": 1,
+      "jar": "./lib/xzy1029.jar"
+    },
+    {
+      "key": "csp_Alist1",
+      "name": "💾Alist",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "./lib/Alist1.json"
     },
     {
       "key": "光速资源",
